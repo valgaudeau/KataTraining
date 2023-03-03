@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyProblem", "ConsoleApp1\MoneyProblem.csproj", "{CE3BDF32-B901-4B6A-814B-468F3E45AB23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoneyProblem", "ConsoleApp1\MoneyProblem.csproj", "{CE3BDF32-B901-4B6A-814B-468F3E45AB23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumerals", "RomanNumerals\RomanNumerals.csproj", "{427AA775-313C-499A-AC41-994095F81FB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanNumerals", "RomanNumerals\RomanNumerals.csproj", "{427AA775-313C-499A-AC41-994095F81FB0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ohce", "Ohce\Ohce.csproj", "{D3E800D3-CD8E-47AB-A2A6-A63E4E06E134}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{427AA775-313C-499A-AC41-994095F81FB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{427AA775-313C-499A-AC41-994095F81FB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{427AA775-313C-499A-AC41-994095F81FB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3E800D3-CD8E-47AB-A2A6-A63E4E06E134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3E800D3-CD8E-47AB-A2A6-A63E4E06E134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3E800D3-CD8E-47AB-A2A6-A63E4E06E134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3E800D3-CD8E-47AB-A2A6-A63E4E06E134}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
